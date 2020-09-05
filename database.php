@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>MYSQL DB</title>
+	<title>VIEW DB</title>
 	<link rel="icon" type="icon/ico" href="icon.png">
 	<link rel="stylesheet" type="text/css" href="style.css?v=<?php echo time(); ?>">
 </head>
